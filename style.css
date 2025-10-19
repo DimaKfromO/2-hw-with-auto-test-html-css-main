@@ -5,13 +5,13 @@
 }
 
 body {
-    font-family: "inter",sans-serif;
+    font-family: "Inter",sans-serif;
     color: #303030;
 }
 
 .header {
     /* Стили для хедера */
-    background-color: 2965F1;
+    background-color: #2965F1;
     padding: 23px 0;
 }
 
