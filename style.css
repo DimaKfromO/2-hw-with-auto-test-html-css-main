@@ -9,13 +9,13 @@ body {
     color: #303030;
 }
 
-.header {
+header {
     /* Стили для хедера */
     background-color: #2965F1;
     padding: 23px 0;
 }
 
-.header span {
+header span {
     /* Стили для текста в хедере IT-INCUBATOR */
     font-weight: 700px;
     font-size: 20px;
@@ -24,6 +24,9 @@ body {
 
 .main-section {
     /* Стили для первой секции */
+    background-color: #FAFAFF;
+    padding: 60px 0;
+    min-height: 100vh;
 }
 
 .main-title {
